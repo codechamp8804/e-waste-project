@@ -1,0 +1,35 @@
+# Normalize line endings: store everything as LF in the repo, and let git
+# check files out with the platform-native ending. Fixes the CRLF-vs-LF diff
+# noise on Windows checkouts.
+* text=auto eol=lf
+
+# Explicitly text (so diffs and merges behave), always LF in the repo.
+*.ts    text eol=lf
+*.tsx   text eol=lf
+*.js    text eol=lf
+*.jsx   text eol=lf
+*.json  text eol=lf
+*.css   text eol=lf
+*.html  text eol=lf
+*.md    text eol=lf
+*.py    text eol=lf
+*.csv   text eol=lf
+*.sql   text eol=lf
+*.env   text eol=lf
+*.yml   text eol=lf
+*.yaml  text eol=lf
+
+# Binary files: never touch line endings or try to diff/merge them.
+*.joblib binary
+*.pkl    binary
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.gif    binary
+*.ico    binary
+*.webp   binary
+*.woff   binary
+*.woff2  binary
+*.ttf    binary
+*.eot    binary
+*.pdf    binary

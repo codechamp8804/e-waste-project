@@ -1,0 +1,78 @@
+[
+  {
+    "docId": "user_ind_001",
+    "type": "individual",
+    "name": "Priya Nair",
+    "email": "priya.nair@example.com",
+    "phone": "+91-9820011223",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "createdAt": "2026-05-20T00:00:00+05:30"
+  },
+  {
+    "docId": "user_ind_002",
+    "type": "individual",
+    "name": "Arjun Mehta",
+    "email": "arjun.mehta@example.com",
+    "phone": "+91-9845566778",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "createdAt": "2026-05-25T00:00:00+05:30"
+  },
+  {
+    "docId": "user_ind_003",
+    "type": "individual",
+    "name": "Fatima Sheikh",
+    "email": "fatima.sheikh@example.com",
+    "phone": "+91-9901122334",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "createdAt": "2026-06-01T00:00:00+05:30"
+  },
+  {
+    "docId": "user_ind_004",
+    "type": "individual",
+    "name": "Rohit Deshmukh",
+    "email": "rohit.deshmukh@example.com",
+    "phone": "+91-9765544332",
+    "city": "Nagpur",
+    "state": "Maharashtra",
+    "createdAt": "2026-06-14T00:00:00+05:30"
+  },
+  {
+    "docId": "user_biz_001",
+    "type": "business",
+    "name": "Brightline Consulting Pvt Ltd",
+    "email": "it-admin@brightlineconsulting.in",
+    "phone": "+91-8022334455",
+    "city": "Gurugram",
+    "state": "Haryana",
+    "businessCategory": "IT Services",
+    "eprRegistrationId": "EPR-HR-2024-00981",
+    "createdAt": "2026-05-15T00:00:00+05:30"
+  },
+  {
+    "docId": "user_biz_002",
+    "type": "business",
+    "name": "Kavita Printers & Stationery",
+    "email": "accounts@kavitaprinters.in",
+    "phone": "+91-7912233445",
+    "city": "Ahmedabad",
+    "state": "Gujarat",
+    "businessCategory": "Retail",
+    "eprRegistrationId": "EPR-GJ-2023-00456",
+    "createdAt": "2026-04-30T00:00:00+05:30"
+  },
+  {
+    "docId": "user_biz_003",
+    "type": "business",
+    "name": "Sunrise Digital Office Solutions",
+    "email": "ops@sunrisedigital.in",
+    "phone": "+91-9040011002",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "businessCategory": "Office Equipment Reseller",
+    "eprRegistrationId": "EPR-MH-2024-01123",
+    "createdAt": "2026-06-05T00:00:00+05:30"
+  }
+]

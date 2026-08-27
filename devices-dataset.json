@@ -1,0 +1,302 @@
+[
+  {
+    "category": "Laptop",
+    "brand": "Dell",
+    "model": "Inspiron 15 3520",
+    "specs": {
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "screenSize": "15.6 inch",
+      "weightKg": 1.8,
+      "ageYears": 3,
+      "condition": "Working"
+    },
+    "photoUrl": "https://picsum.photos/seed/laptop-dell-1/400/300",
+    "predictedValues": {
+      "estimatedResaleValueINR": 14500,
+      "materialRecoveryValueINR": 850,
+      "co2SavedKg": 42.5,
+      "recyclablePercentage": 78,
+      "conditionScore": 82
+    },
+    "status": "Pending Pickup",
+    "submittedBy": { "name": "Aarav Sharma", "email": "aarav.sharma@example.com", "phone": "+91-9876543210" },
+    "location": { "city": "Mumbai", "pincode": "400001" },
+    "submittedAt": "2026-07-10T09:30:00Z",
+    "updatedAt": "2026-07-10T09:30:00Z"
+  },
+  {
+    "category": "Smartphone",
+    "brand": "Samsung",
+    "model": "Galaxy M31",
+    "specs": {
+      "ram": "6GB",
+      "storage": "128GB",
+      "screenSize": "6.4 inch",
+      "weightKg": 0.19,
+      "ageYears": 4,
+      "condition": "Partially Working"
+    },
+    "photoUrl": "https://picsum.photos/seed/phone-samsung-1/400/300",
+    "predictedValues": {
+      "estimatedResaleValueINR": 3200,
+      "materialRecoveryValueINR": 210,
+      "co2SavedKg": 8.2,
+      "recyclablePercentage": 65,
+      "conditionScore": 54
+    },
+    "status": "Verified",
+    "submittedBy": { "name": "Priya Nair", "email": "priya.nair@example.com", "phone": "+91-9823456712" },
+    "location": { "city": "Pune", "pincode": "411001" },
+    "submittedAt": "2026-07-08T14:12:00Z",
+    "updatedAt": "2026-07-11T10:05:00Z"
+  },
+  {
+    "category": "Desktop",
+    "brand": "HP",
+    "model": "ProDesk 400 G6",
+    "specs": {
+      "ram": "16GB",
+      "storage": "1TB HDD",
+      "screenSize": null,
+      "weightKg": 5.4,
+      "ageYears": 6,
+      "condition": "Working"
+    },
+    "photoUrl": "https://picsum.photos/seed/desktop-hp-1/400/300",
+    "predictedValues": {
+      "estimatedResaleValueINR": 9800,
+      "materialRecoveryValueINR": 1400,
+      "co2SavedKg": 65.0,
+      "recyclablePercentage": 82,
+      "conditionScore": 70
+    },
+    "status": "In Transit",
+    "submittedBy": { "name": "Rohan Mehta", "email": "rohan.mehta@example.com", "phone": "+91-9911223344" },
+    "location": { "city": "Bengaluru", "pincode": "560001" },
+    "submittedAt": "2026-07-05T11:00:00Z",
+    "updatedAt": "2026-07-12T08:45:00Z"
+  },
+  {
+    "category": "Monitor",
+    "brand": "LG",
+    "model": "24MK430H",
+    "specs": {
+      "ram": null,
+      "storage": null,
+      "screenSize": "24 inch",
+      "weightKg": 3.1,
+      "ageYears": 5,
+      "condition": "Working"
+    },
+    "photoUrl": "https://picsum.photos/seed/monitor-lg-1/400/300",
+    "predictedValues": {
+      "estimatedResaleValueINR": 2600,
+      "materialRecoveryValueINR": 480,
+      "co2SavedKg": 19.4,
+      "recyclablePercentage": 74,
+      "conditionScore": 76
+    },
+    "status": "Pending Pickup",
+    "submittedBy": { "name": "Sneha Kulkarni", "email": "sneha.k@example.com", "phone": "+91-9765432109" },
+    "location": { "city": "Nagpur", "pincode": "440001" },
+    "submittedAt": "2026-07-14T16:20:00Z",
+    "updatedAt": "2026-07-14T16:20:00Z"
+  },
+  {
+    "category": "Printer",
+    "brand": "Canon",
+    "model": "PIXMA G3010",
+    "specs": {
+      "ram": null,
+      "storage": null,
+      "screenSize": null,
+      "weightKg": 6.2,
+      "ageYears": 4,
+      "condition": "Not Working"
+    },
+    "photoUrl": "https://picsum.photos/seed/printer-canon-1/400/300",
+    "predictedValues": {
+      "estimatedResaleValueINR": 900,
+      "materialRecoveryValueINR": 320,
+      "co2SavedKg": 11.7,
+      "recyclablePercentage": 58,
+      "conditionScore": 28
+    },
+    "status": "Rejected",
+    "submittedBy": { "name": "Vikram Singh", "email": "vikram.singh@example.com", "phone": "+91-9098765432" },
+    "location": { "city": "Delhi", "pincode": "110001" },
+    "submittedAt": "2026-06-29T10:10:00Z",
+    "updatedAt": "2026-07-02T09:00:00Z"
+  },
+  {
+    "category": "Refrigerator",
+    "brand": "Whirlpool",
+    "model": "IF INV CNV 278",
+    "specs": {
+      "capacityLiters": 278,
+      "weightKg": 62.0,
+      "ageYears": 8,
+      "condition": "Working"
+    },
+    "photoUrl": "https://picsum.photos/seed/fridge-whirlpool-1/400/300",
+    "predictedValues": {
+      "estimatedResaleValueINR": 5200,
+      "materialRecoveryValueINR": 2100,
+      "co2SavedKg": 148.0,
+      "recyclablePercentage": 85,
+      "conditionScore": 61
+    },
+    "status": "Verified",
+    "submittedBy": { "name": "Anjali Desai", "email": "anjali.desai@example.com", "phone": "+91-9345678901" },
+    "location": { "city": "Ahmedabad", "pincode": "380001" },
+    "submittedAt": "2026-07-01T13:45:00Z",
+    "updatedAt": "2026-07-09T12:30:00Z"
+  },
+  {
+    "category": "Washing Machine",
+    "brand": "IFB",
+    "model": "Neo Diva VX",
+    "specs": {
+      "capacityKg": 6.5,
+      "weightKg": 58.0,
+      "ageYears": 7,
+      "condition": "Partially Working"
+    },
+    "photoUrl": "https://picsum.photos/seed/washer-ifb-1/400/300",
+    "predictedValues": {
+      "estimatedResaleValueINR": 3800,
+      "materialRecoveryValueINR": 1650,
+      "co2SavedKg": 121.5,
+      "recyclablePercentage": 80,
+      "conditionScore": 48
+    },
+    "status": "Processing",
+    "submittedBy": { "name": "Karan Malhotra", "email": "karan.m@example.com", "phone": "+91-9887766554" },
+    "location": { "city": "Chandigarh", "pincode": "160001" },
+    "submittedAt": "2026-06-25T08:00:00Z",
+    "updatedAt": "2026-07-15T17:10:00Z"
+  },
+  {
+    "category": "Television",
+    "brand": "Sony",
+    "model": "Bravia KLV-32R422",
+    "specs": {
+      "screenSize": "32 inch",
+      "weightKg": 4.9,
+      "ageYears": 6,
+      "condition": "Working"
+    },
+    "photoUrl": "https://picsum.photos/seed/tv-sony-1/400/300",
+    "predictedValues": {
+      "estimatedResaleValueINR": 4700,
+      "materialRecoveryValueINR": 590,
+      "co2SavedKg": 33.0,
+      "recyclablePercentage": 71,
+      "conditionScore": 68
+    },
+    "status": "Recycled",
+    "submittedBy": { "name": "Meera Iyer", "email": "meera.iyer@example.com", "phone": "+91-9012345678" },
+    "location": { "city": "Chennai", "pincode": "600001" },
+    "submittedAt": "2026-06-10T15:30:00Z",
+    "updatedAt": "2026-07-03T11:20:00Z"
+  },
+  {
+    "category": "Air Conditioner",
+    "brand": "Voltas",
+    "model": "1.5 Ton 3 Star Split",
+    "specs": {
+      "capacityTon": 1.5,
+      "weightKg": 34.0,
+      "ageYears": 9,
+      "condition": "Not Working"
+    },
+    "photoUrl": "https://picsum.photos/seed/ac-voltas-1/400/300",
+    "predictedValues": {
+      "estimatedResaleValueINR": 1500,
+      "materialRecoveryValueINR": 2800,
+      "co2SavedKg": 96.0,
+      "recyclablePercentage": 88,
+      "conditionScore": 22
+    },
+    "status": "Pending Pickup",
+    "submittedBy": { "name": "Suresh Rao", "email": "suresh.rao@example.com", "phone": "+91-9223344556" },
+    "location": { "city": "Hyderabad", "pincode": "500001" },
+    "submittedAt": "2026-07-16T07:50:00Z",
+    "updatedAt": "2026-07-16T07:50:00Z"
+  },
+  {
+    "category": "Tablet",
+    "brand": "Apple",
+    "model": "iPad 9th Gen",
+    "specs": {
+      "ram": "3GB",
+      "storage": "64GB",
+      "screenSize": "10.2 inch",
+      "weightKg": 0.49,
+      "ageYears": 2,
+      "condition": "Working"
+    },
+    "photoUrl": "https://picsum.photos/seed/tablet-apple-1/400/300",
+    "predictedValues": {
+      "estimatedResaleValueINR": 18500,
+      "materialRecoveryValueINR": 340,
+      "co2SavedKg": 15.6,
+      "recyclablePercentage": 69,
+      "conditionScore": 91
+    },
+    "status": "Verified",
+    "submittedBy": { "name": "Ishita Bose", "email": "ishita.bose@example.com", "phone": "+91-9556677889" },
+    "location": { "city": "Kolkata", "pincode": "700001" },
+    "submittedAt": "2026-07-18T12:00:00Z",
+    "updatedAt": "2026-07-19T09:15:00Z"
+  },
+  {
+    "category": "Smartwatch",
+    "brand": "Noise",
+    "model": "ColorFit Pro 4",
+    "specs": {
+      "screenSize": "1.72 inch",
+      "weightKg": 0.045,
+      "ageYears": 1,
+      "condition": "Working"
+    },
+    "photoUrl": "https://picsum.photos/seed/watch-noise-1/400/300",
+    "predictedValues": {
+      "estimatedResaleValueINR": 900,
+      "materialRecoveryValueINR": 45,
+      "co2SavedKg": 1.8,
+      "recyclablePercentage": 52,
+      "conditionScore": 88
+    },
+    "status": "Pending Pickup",
+    "submittedBy": { "name": "Farhan Ali", "email": "farhan.ali@example.com", "phone": "+91-9667788990" },
+    "location": { "city": "Lucknow", "pincode": "226001" },
+    "submittedAt": "2026-07-20T18:40:00Z",
+    "updatedAt": "2026-07-20T18:40:00Z"
+  },
+  {
+    "category": "Microwave",
+    "brand": "Samsung",
+    "model": "CE1041DSB2",
+    "specs": {
+      "capacityLiters": 28,
+      "weightKg": 13.5,
+      "ageYears": 5,
+      "condition": "Partially Working"
+    },
+    "photoUrl": "https://picsum.photos/seed/microwave-samsung-1/400/300",
+    "predictedValues": {
+      "estimatedResaleValueINR": 1800,
+      "materialRecoveryValueINR": 410,
+      "co2SavedKg": 22.3,
+      "recyclablePercentage": 76,
+      "conditionScore": 55
+    },
+    "status": "Processing",
+    "submittedBy": { "name": "Neha Joshi", "email": "neha.joshi@example.com", "phone": "+91-9345567788" },
+    "location": { "city": "Jaipur", "pincode": "302001" },
+    "submittedAt": "2026-07-12T10:25:00Z",
+    "updatedAt": "2026-07-19T14:00:00Z"
+  }
+]

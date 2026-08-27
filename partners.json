@@ -1,0 +1,104 @@
+[
+  {
+    "docId": "partner_001",
+    "name": "Eco Recycling Ltd (Ecoreco)",
+    "type": "recycler",
+    "categoriesAccepted": ["smartphone", "laptop", "appliance_large", "printer", "battery"],
+    "location": {
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.076,
+      "lng": 72.8777
+    },
+    "certifications": ["CPCB Authorized", "ISO 14001"],
+    "rating": 4.4,
+    "capacityTier": "high",
+    "contactEmail": "intake@ecorecoindia.com",
+    "createdAt": "2026-01-10T00:00:00+05:30"
+  },
+  {
+    "docId": "partner_002",
+    "name": "Attero Recycling",
+    "type": "recycler",
+    "categoriesAccepted": ["smartphone", "laptop", "battery", "printer"],
+    "location": {
+      "city": "Roorkee",
+      "state": "Uttarakhand",
+      "lat": 29.8543,
+      "lng": 77.8880
+    },
+    "certifications": ["CPCB Authorized", "R2 Certified"],
+    "rating": 4.6,
+    "capacityTier": "high",
+    "contactEmail": "partners@attero.in",
+    "createdAt": "2026-01-10T00:00:00+05:30"
+  },
+  {
+    "docId": "partner_003",
+    "name": "Cashify Refurb Hub",
+    "type": "refurbisher",
+    "categoriesAccepted": ["smartphone", "laptop"],
+    "location": {
+      "city": "Gurugram",
+      "state": "Haryana",
+      "lat": 28.4595,
+      "lng": 77.0266
+    },
+    "certifications": ["ISO 9001"],
+    "rating": 4.2,
+    "capacityTier": "high",
+    "contactEmail": "business@cashify.in",
+    "createdAt": "2026-01-15T00:00:00+05:30"
+  },
+  {
+    "docId": "partner_004",
+    "name": "GreenTech E-Waste Solutions",
+    "type": "recycler",
+    "categoriesAccepted": ["appliance_large", "printer", "battery"],
+    "location": {
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "lat": 12.9716,
+      "lng": 77.5946
+    },
+    "certifications": ["CPCB Authorized"],
+    "rating": 4.0,
+    "capacityTier": "medium",
+    "contactEmail": "pickup@greentechewaste.in",
+    "createdAt": "2026-02-01T00:00:00+05:30"
+  },
+  {
+    "docId": "partner_005",
+    "name": "Reboot Refurbished Electronics",
+    "type": "refurbisher",
+    "categoriesAccepted": ["laptop", "smartphone", "printer"],
+    "location": {
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5204,
+      "lng": 73.8567
+    },
+    "certifications": ["ISO 9001"],
+    "rating": 4.3,
+    "capacityTier": "medium",
+    "contactEmail": "hello@rebootrefurb.in",
+    "createdAt": "2026-02-05T00:00:00+05:30"
+  },
+  {
+    "docId": "partner_006",
+    "name": "Namo eWaste Management",
+    "type": "recycler",
+    "categoriesAccepted": ["smartphone", "laptop", "printer", "appliance_large", "battery"],
+    "location": {
+      "city": "Delhi",
+      "state": "Delhi",
+      "lat": 28.7041,
+      "lng": 77.1025
+    },
+    "certifications": ["CPCB Authorized", "R2 Certified", "ISO 14001"],
+    "rating": 4.5,
+    "capacityTier": "high",
+    "contactEmail": "corporate@namoewaste.com",
+    "createdAt": "2026-02-10T00:00:00+05:30"
+  }
+]
